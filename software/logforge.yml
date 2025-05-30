@@ -1,0 +1,14 @@
+name: "LogForge"
+website_url: "https://log-forge.github.io/logforgeweb/"
+source_code_url: "https://github.com/log-forge/logforge"
+description: "Self-hosted service monitoring web UI for Docker containers, with notifications."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Monitoring
+  - Log Management
+  - Software Containers
+  - Self-hosting Solutions
+depends_3rdparty: false
